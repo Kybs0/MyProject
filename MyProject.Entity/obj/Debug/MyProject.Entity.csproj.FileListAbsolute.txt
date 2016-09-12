@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\MyProject\MyProject.Entity\bin\Debug\MyProject.Entity.dll
+C:\Users\Administrator\Desktop\MyProject\MyProject.Entity\bin\Debug\MyProject.Entity.pdb
+C:\Users\Administrator\Desktop\MyProject\MyProject.Entity\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Desktop\MyProject\MyProject.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Desktop\MyProject\MyProject.Entity\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\MyProject\MyProject.Entity\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Desktop\MyProject\MyProject.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Desktop\MyProject\MyProject.Entity\bin\Debug\log4net.xml
+C:\Users\Administrator\Desktop\MyProject\MyProject.Entity\obj\Debug\MyProject.Entity.dll
+C:\Users\Administrator\Desktop\MyProject\MyProject.Entity\obj\Debug\MyProject.Entity.pdb
